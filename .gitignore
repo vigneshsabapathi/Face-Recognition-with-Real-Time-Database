@@ -1,0 +1,131 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore system and temporary files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+
+# Ignore log files
+*.log
+
+# Ignore database files
+*.db
+
+# Ignore generated documentation
+docs/
+
+# Ignore compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore package files
+*.egg-info/
+dist/
+build/
+
+# Ignore cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.bak
+*.cache
+*.egg
+*.egg-info
+*.eggs
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.bak
+*.cache
+*.egg
+*.egg-info
+*.eggs
+
+# Ignore sensitive or private information
+config.ini
+secrets.json
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore virtual environment directories
+venv/
+env/
+facerecsys/
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore system and temporary files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+
+# Ignore log files
+*.log
+
+# Ignore database files
+*.db
+
+# Ignore generated documentation
+docs/
+
+# Ignore compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore package files
+*.egg-info/
+dist/
+build/
+
+# Ignore cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.bak
+*.cache
+*.egg
+*.egg-info
+*.eggs
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.bak
+*.cache
+*.egg
+*.egg-info
+*.eggs
+
+# Ignore sensitive or private information
+config.ini
+secrets.json
+serviceAccountKey.json
